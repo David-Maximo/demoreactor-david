@@ -1,11 +1,16 @@
+# Importación de librerías
 import turtle
 import colorsys
+
+# Definición de variables
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor("black")
 t.speed(0)
 n = 36
 h = 0
+
+# Función principal
 for i in range(460):
 	c = colorsys.hsv_to_rgb(h,1,0.9)
 	h += 1/n
