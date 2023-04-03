@@ -57,3 +57,13 @@ Presentación: [Introducción a Git y GitHub](./slides/GitGitHubMesdeDatos.pptx)
 Manuel Ortiz: [@manuosmx](https://instagram.com/manuosmx)
 
 Francisco Guzman: [@pacomgh](https://instagram.com/pacomgh)
+
+# Prueba de texto con código
+Este texto incluye un comando con código:  `var1 = [2, 3, 5, 7]`
+Este texto es una prueba de la comilla simple para agregar código: 'var2 = [4, 6, 8, 9]'
+Este texto es un párrafo con código:
+```
+def FuncionPrueba(argumento):
+    argumento_mayusc = argumento.upper()
+    return argumento_mayusc
+```
